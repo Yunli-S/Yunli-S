@@ -1,6 +1,6 @@
 👋 Hi there, I’m Yunli Su.
-- I am currently pursuing a Master's degree in Data Science at Rice University
-- 👀 My areas of interest include machine learning, deep learning, big data analysis.
+- I am currently a new graduate student from Rice University with a Master degree in Data Science
+- 👀 My areas of interest include data analysis, machine learning, deep learning.
 - 📫 How to reach me : yunli.su0828@gmail.com
 
 <!---
